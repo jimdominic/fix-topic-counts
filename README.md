@@ -22,3 +22,4 @@ Did I mention, ***DO NOT RUN THIS SCRIPT ON AN ACTIVE PRODUCTION DATABASE!***
 3. In order to avoid server problems, set a range in line 22 for each time you run the script, especially important for large boards.
 4. Open developer tools in your browser to view the console log, or if you're a better programmer than I am which is 100% likely, make it do outputs to your satisfaction. 
 5. See if it works. If not, well, I did warn you it was ***ALPHA CODE - USE AT YOUR OWN RISK***
+6. When finished, delete the script from your server.
