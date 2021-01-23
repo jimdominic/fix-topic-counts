@@ -1,5 +1,6 @@
 <?php
 // Initialize variables
+// NOTE: Database connection should be done in a separate script that is located in a non-public location on the server
 $servername = "localhost";
 $dbname = '<your database name here>'; // Set this variable to your database name
 $username = '<your database user name here>'; // Set this variable to your database user name
